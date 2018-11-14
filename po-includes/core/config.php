@@ -20,12 +20,12 @@ define('DIR_ADM', $site['adm']);
 define('DIR_CON', $site['con']);
 define('DIR_INC', $site['inc']);
 
-$db['host'] = "localhost";
+$db['host'] = "popojicms2.database.windows.net";
 $db['driver'] = "mysql";
 $db['sock'] = "/tmp/mysql50.sock";
 $db['port'] = "3306";
-$db['user'] = "agusbrata";
-$db['passwd'] = "123456";
+$db['user'] = "adminmodalin";
+$db['passwd'] = "P4ssword.#123";
 $db['db'] = "popojicms";
 
 define('DATABASE_HOST', $db['host']);
