@@ -10,7 +10,7 @@ define('CONF_VER', $site['ver']);
 define('CONF_BUILD', $site['build']);
 define('CONF_RELEASE', $site['release']);
 
-$site['url'] = "http://localhost:88/modalin/";
+$site['url'] = "https://modalkamu.herokuapp.com/";
 $site['adm'] = "po-admin";
 $site['con'] = "po-content";
 $site['inc'] = "po-includes";
